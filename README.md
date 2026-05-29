@@ -221,11 +221,9 @@ jupyter notebook Ingenium.ipynb
 ## 👥 Contributors
 
 **Mayank Bisaria**
-Chemical Engineering + Data Science
+Chemical Engineering 
 Indian Institute of Technology (IIT) Indore
 
 ---
 
-## 📜 Acknowledgements
 
-Developed as part of the **Global Gourmet Operational Excellence Challenge** conducted during **Ingenium, IIT Indore**.
