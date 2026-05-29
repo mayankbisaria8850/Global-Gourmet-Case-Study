@@ -53,7 +53,7 @@ The objective was to design a **production-inspired, multi-stage AI system** cap
   * Cuisine-specific encoding
 * Designed a **custom asymmetric loss function** to penalize delivery lateness more heavily than early deliveries.
 
-### 3. NLP-Based Customer Intelligence
+### 3. Customer Intelligence and Churn Prediction
 
 * Built a **sentiment classification pipeline** using **VADER** to classify reviews into:
 
