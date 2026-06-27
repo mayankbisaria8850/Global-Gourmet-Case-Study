@@ -3,7 +3,7 @@
 
 ### End-to-End AI Architecture for Last-Mile Delivery Optimization
 
-An end-to-end **machine learning and analytics pipeline** developed for the **Global Gourmet Operational Excellence Challenge (Ingenium, IIT Indore)** to optimize food delivery logistics, customer retention, and revenue generation using predictive analytics, NLP, churn modeling, and economic optimization.
+An end-to-end **machine learning and analytics pipeline** developed for the **Global Gourmet Operational Excellence Challenge** to optimize food delivery logistics, customer retention, and revenue generation using predictive analytics, NLP, churn modeling, and economic optimization.
 
 The project integrates **ETL pipelines, ETA prediction, sentiment analysis, topic modeling, churn propensity estimation, and dynamic surge pricing** into a unified decision-making system for large-scale food-tech operations.
 
